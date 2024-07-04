@@ -1,7 +1,7 @@
 # Brawl-Stars-Ultimate-RPC
 Discord RPC for Brawl Stars written in python. Made by @kubune
 
-This project was quick to create.
+This project was quick to create. THE PROJECT IS STILL IN BETA
 
 # How to use
 1. Use `pip install -r requirements.txt` in console to install required packages.
